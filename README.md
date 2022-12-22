@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristianAlfonso
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...
+
 
 
 <!---
