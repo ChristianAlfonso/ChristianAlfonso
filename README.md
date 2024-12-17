@@ -1,6 +1,8 @@
 
 
-![MasterHead](https://github.com/ChristianAlfonso/ChristianAlfonso/blob/main/tempDev%20Tools/tempDev_Banner.png)
+<img src="https://github.com/ChristianAlfonso/ChristianAlfonso/blob/main/tempDev%20Tools/tempDev_Banner.png" 
+     alt="MasterHead" 
+     style="width: 100%; height: auto;">
 
 
 
