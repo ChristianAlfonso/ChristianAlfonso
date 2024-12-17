@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Christian Macatangay Alfonso</h1>
+<h1 align="center">Hi, I'm Christian Macatangay Alfonso</h1>
 <h3 align="center">A passionate frontend developer</h3>
-https://imgs.search.brave.com/Z8OReT5IPeMQ8v3lUXQaPRwfo7r7ag2neIR3k95tp3s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL1E3U0tx/bjNHOTd4cG1mU092/Ry9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/YXluNDhnZGt1dTc5/MHE5c21mejVpdTFr/dW44YWZzdHR5cTY5/NWxhMSZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.gif
+
+<img src="https://imgs.search.brave.com/SO1zAw-k-1Hy0MEpuf_dMSsno4tfxYjtFY3SKpdDSVU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjV1l4WnpabU5u/VjBlbVo2ZVdodlpt/OXZiamgwYW5FMmQy/ZDRjV2RvWkdkMmIz/STRNelJqTUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTDhLNjJpVERr/ekdYNi8yMDAuZ2lm.gif" align="right" alt="webCode" width="400">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianalfonso&label=Profile%20views&color=0e75b6&style=flat" alt="christianalfonso" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianalfonso" alt="christianalfonso" /></a> </p>
