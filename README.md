@@ -10,7 +10,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-<img src="https://imgs.search.brave.com/SO1zAw-k-1Hy0MEpuf_dMSsno4tfxYjtFY3SKpdDSVU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjV1l4WnpabU5u/VjBlbVo2ZVdodlpt/OXZiamgwYW5FMmQy/ZDRjV2RvWkdkMmIz/STRNelJqTUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTDhLNjJpVERr/ekdYNi8yMDAuZ2lm.gif" alt="webCode" align="right" width="400">
+<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>
         
 - 💬 Ask me about **Games, Anime, Some Tech Things**
         
