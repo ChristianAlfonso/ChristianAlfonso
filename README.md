@@ -7,15 +7,13 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<img src="https://imgs.search.brave.com/SO1zAw-k-1Hy0MEpuf_dMSsno4tfxYjtFY3SKpdDSVU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjV1l4WnpabU5u/VjBlbVo2ZVdodlpt/OXZiamgwYW5FMmQy/ZDRjV2RvWkdkMmIz/STRNelJqTUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTDhLNjJpVERr/ekdYNi8yMDAuZ2lm.gif" alt="webCode" width="400">
+<img src="https://imgs.search.brave.com/SO1zAw-k-1Hy0MEpuf_dMSsno4tfxYjtFY3SKpdDSVU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjV1l4WnpabU5u/VjBlbVo2ZVdodlpt/OXZiamgwYW5FMmQy/ZDRjV2RvWkdkMmIz/STRNelJqTUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTDhLNjJpVERr/ekdYNi8yMDAuZ2lm.gif" alt="webCode" align="right" width="400">
         
 - 💬 Ask me about **Games, Anime, Some Tech Things**
         
 - 📫 How to reach me **alfonso.christian.macatangay@gmail.com**
         
 - ⚡ Fun fact **"I started coding to become a web developer someday so that my parents won't have to struggle anymore."**
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
