@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Christian Macatangay Alfonso</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<div>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 1rem;">
         <img src="https://imgs.search.brave.com/SO1zAw-k-1Hy0MEpuf_dMSsno4tfxYjtFY3SKpdDSVU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjV1l4WnpabU5u/VjBlbVo2ZVdodlpt/OXZiamgwYW5FMmQy/ZDRjV2RvWkdkMmIz/STRNelJqTUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTDhLNjJpVERr/ekdYNi8yMDAuZ2lm.gif" alt="webCode" width="400">
         
         - 💬 Ask me about **Games, Anime, Some Tech Things**
