@@ -10,7 +10,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM2Z3pneGtvM2EweGlsOHU2ZmV2dTNzem8yYzlpaDVjeGRpd2hieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp" alt="webCode" align="right" width="400">
+<img src="haha.jpg" alt="webCode" align="right" width="400">
         
 - 💬 Ask me about **Games, Anime, Some Tech Things**
         
