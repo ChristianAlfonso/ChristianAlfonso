@@ -10,7 +10,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-<img src="https://github.com/ChristianAlfonso/ChristianAlfonso/blob/main/tempDev%20Tools/haha.jpg" alt="webCode" align="right" width="400">
+<img src="https://github.com/ChristianAlfonso/ChristianAlfonso/blob/main/tempDev%20Tools/haha.jpg" alt="webCode" align="right" width="200">
         
 - 💬 Ask me about **Games, Anime, Some Tech Things**
         
