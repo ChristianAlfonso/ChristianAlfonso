@@ -12,10 +12,7 @@
 
 <img src="https://github.com/ChristianAlfonso/ChristianAlfonso/blob/main/tempDev%20Tools/haha.jpg" alt="webCode" align="right" width="300">
         
-- 💬 Ask me about **Games, Anime, Some Tech Things**
-        
-- 📫 How to reach me **alfonso.christian.macatangay@gmail.com**
-        
+- 💬 Ask me about **Games, Anime, Some Tech Things**        
 - ⚡ Fun fact **"I started coding to become a web developer someday so that my parents won't have to struggle anymore."**
 
 <h3 align="left">Connect with me:</h3>
